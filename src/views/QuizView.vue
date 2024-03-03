@@ -1,5 +1,5 @@
 <script setup>
-import QuizHeader from '../components/QuizHeader';
+import QuizHeader from '@/components/QuizHeader';
 import ResultComp from '../components/ResultComp';
 import QuestionItem from '../components/QuestionItem';
 import { useRoute } from 'vue-router';
